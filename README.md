@@ -1,4 +1,4 @@
-THis is a lecture hand out for 2nd data science cource held by Univ. of Tokyo.
+THis is a repository to settle lecture handouts for 2nd data science cource held by Univ. of Tokyo.
 
 Files:
 1. 機械学習を活用した需要予測モデルの提案.pdf (JPN ver.)
